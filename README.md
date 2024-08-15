@@ -28,25 +28,25 @@ Responsive design for seamless usage across devices.
 
 ## Screenshots
 
-Onboarding 
-
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://1drv.ms/i/s!AlqBDuF8HL8hlNUCvlhmVJDQi6m8Cw?e=oIbZRG))
-
-
-Search Functionality
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-Search Results
+# Onboarding 
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-Exercise Details
+# Search Functionality
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-Youtube Suggestions
+# Search Results
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+# Exercise Details
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+# Youtube Suggestions
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
