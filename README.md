@@ -49,7 +49,7 @@ Responsive design for seamless usage across devices.
 
 # Youtube Suggestions
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-08-11 215823](https://github.com/user-attachments/assets/41f6272e-d9be-45d4-b893-c00ffdec9716)
 
 
 
