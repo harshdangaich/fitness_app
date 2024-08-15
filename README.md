@@ -45,7 +45,7 @@ Responsive design for seamless usage across devices.
 
 # Exercise Details
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-08-11 215747](https://github.com/user-attachments/assets/b24c8276-1d61-44b3-866a-a3df39596c30)
 
 # Youtube Suggestions
 
