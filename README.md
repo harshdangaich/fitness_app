@@ -30,7 +30,8 @@ Responsive design for seamless usage across devices.
 
 # Onboarding 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-08-11 215513](https://github.com/user-attachments/assets/22abddbc-2914-428e-9019-60677f2d4f36)
+
 
 
 # Search Functionality
