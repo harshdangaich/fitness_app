@@ -38,13 +38,16 @@ Search Functionality
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 Search Results
+
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 Exercise Details
+
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 Youtube Suggestions
+
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
