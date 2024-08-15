@@ -36,7 +36,7 @@ Responsive design for seamless usage across devices.
 
 # Search Functionality
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-08-11 215541](https://github.com/user-attachments/assets/59ad6ab3-c0ff-44e0-87fd-044d86ed3be5)
 
 # Search Results
 
