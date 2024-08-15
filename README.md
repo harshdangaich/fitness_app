@@ -40,7 +40,7 @@ Responsive design for seamless usage across devices.
 
 # Search Results
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-08-11 215639](https://github.com/user-attachments/assets/8070c620-c4ef-4aa9-9f3a-a00c2f5ded98)
 
 
 # Exercise Details
